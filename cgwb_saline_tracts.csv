@@ -1,0 +1,8 @@
+District,Saline_Area_SqKm,Affected_Blocks,Top_Saline_Depth_m,Deep_Fresh_Aquifer_Depth_m,Max_Yield_lps,Casing_Sealing_Required
+Bhadrak,1650,7,0 - 120,120 - 320,65.0,Yes (Cement Plug 0-120m)
+Kendrapara,2150,9,0 - 150,150 - 350,75.0,Yes (Cement Plug 0-150m)
+Jagatsinghpur,1380,8,0 - 100,100 - 300,65.0,Yes (Cement Plug 0-100m)
+Puri,1920,8,Variable (Saline to Bedrock in Brahmagiri),0 - 80 (Top Fresh Lens) / None in Brahmagiri,70.0,Shallow Skimming / Infiltration Gallery
+Balasore,980,5,0 - 60 (Narrow 10km coastal strip),60 - 300,55.0,Yes (Cement Plug 0-60m)
+Jajpur,450,3,0 - 80,80 - 250,40.0,Yes (Cement Plug 0-80m)
+Ganjam,345,2,0 - 30 (Chilika fringe),30 - 150,25.0,Freshwater skimming

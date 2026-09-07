@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+numpy
+statsmodels
+openpyxl
+geopandas
+shapely
+pyogrio
+pyproj
+scipy
+reportlab

@@ -1,0 +1,31 @@
+District,Category,Formation,Area_SqKm,HardRock_EW,HardRock_OW,HardRock_PZ,HardRock_DW,SoftRock_EW,SoftRock_OW,SoftRock_PZ,SoftRock_DW,SoftRock_SH,Total_EW,Total_Wells,Avg_Yield_lps,Max_Depth_m
+Angul,Drought-Prone / Inland,Hard Rock (Granite / Gondwana),6375,149,23,3,11,0,0,0,0,0,149,186,3.5 - 10.0,200
+Balasore,Coastal / Non-Saline & Saline,Mixed (Quaternary / Tertiary),3806,80,8,5,0,63,10,18,22,1,143,207,15.0 - 55.0,300
+Bargarh,Drought-Prone / Western,Hard Rock (Granite Gneiss),5837,134,20,0,0,0,0,0,0,0,134,154,2.0 - 8.0,200
+Bhadrak,Coastal Saline Hazard,Soft Rock (Coastal Alluvium),2505,0,0,0,0,73,11,20,2,1,73,107,20.0 - 65.0,350
+Bolangir,Drought-Prone / Western,Hard Rock (Khondalite / Granite),6575,139,22,0,0,0,0,0,0,0,139,161,1.5 - 6.5,200
+Boudh,Drought-Prone / Central,Hard Rock (Granite Gneiss),3098,45,8,2,0,0,0,0,0,0,45,55,2.0 - 7.5,180
+Cuttack,Deltaic / Athgarh Basin,Mixed (Gondwana / Alluvium),3932,28,13,2,0,43,14,5,22,4,71,131,10.0 - 45.0,300
+Deogarh,Drought-Prone / Northern,Hard Rock (Granite / Quartzite),2940,43,15,0,0,0,0,0,0,0,43,58,1.5 - 5.0,200
+Dhenkanal,Central / Gondwana Belt,Hard Rock (Gondwana / Gneiss),4452,74,3,4,3,0,0,0,0,0,74,84,3.0 - 9.0,200
+Gajapati,Tribal / Eastern Ghats,Hard Rock (Khondalite / Charnockite),4325,20,3,0,0,0,0,0,0,0,20,23,1.0 - 4.5,150
+Ganjam,Coastal / Rushikulya Basin,Hard Rock (Granite / Coastal Strip),8206,173,5,0,0,0,0,0,0,0,173,178,3.0 - 12.0,200
+Jagatsinghpur,Coastal Saline Hazard,Soft Rock (Mahanadi Delta Alluvium),1668,0,0,0,0,13,6,19,3,4,13,45,25.0 - 65.0,350
+Jajpur,Deltaic / Brahmani Basin,Mixed (Hard Rock / Alluvium),2899,18,0,0,0,32,5,3,8,2,50,68,12.0 - 40.0,300
+Jharsuguda,Drought-Prone / IB Valley,Hard Rock (Gondwana Sandstone),2081,75,11,0,0,0,0,0,0,0,75,86,4.0 - 12.0,200
+Kalahandi,Drought-Prone / Western,Hard Rock (Granite / Khondalite),7920,131,27,0,0,0,0,0,0,0,131,158,2.0 - 8.5,200
+Kandhamal,Tribal / Drought-Prone,Hard Rock (Khondalite / Charnockite),8021,72,6,0,0,0,0,0,0,0,72,78,1.0 - 4.0,160
+Kendrapara,Coastal Saline Hazard,Soft Rock (Brahmani-Baitarani Delta),2644,0,0,0,0,12,0,8,9,2,12,31,25.0 - 75.0,350
+Keonjhar,Tribal / Mineralized Belt,Hard Rock (BIF / Granite),8303,124,32,8,0,0,0,0,0,0,124,164,2.5 - 9.0,200
+Khordha,Athgarh / Coastal Fringe,Mixed (Athgarh Sandstone / Laterite),2813,66,18,16,16,4,4,0,0,0,70,124,5.0 - 18.0,250
+Koraput,Tribal / Southern Plateau,Hard Rock (Khondalite / Charnockite),8807,71,14,0,0,0,0,0,0,0,71,85,1.5 - 5.5,180
+Malkangiri,Tribal / Sabari Basin,Hard Rock (Precambrian Metasediments),5791,39,5,0,0,0,0,0,0,0,39,44,2.0 - 7.0,180
+Mayurbhanj,Tribal / Tertiary Basin,Mixed (Baripada Beds / Granite),10418,81,35,16,17,22,4,1,5,0,103,181,5.5 - 18.6,303
+Nabarangpur,Tribal / Indravati Basin,Hard Rock (Granite / Granite Gneiss),5291,54,13,0,0,0,0,0,0,0,54,67,3.0 - 10.0,200
+Nayagarh,Inland / Mahanadi Tributary,Hard Rock (Khondalite / Charnockite),3890,42,0,0,0,0,0,0,0,0,42,42,1.5 - 5.0,180
+Nuapada,Drought-Prone / Jonk Basin,Hard Rock (Granite / Khondalite),3852,65,16,13,0,0,0,0,0,0,65,94,2.0 - 7.5,200
+Puri,Coastal Saline Hazard / Artesian,Soft Rock (Quaternary Alluvium),3479,0,0,0,0,37,16,15,11,3,37,82,20.0 - 70.0,350
+Rayagada,Tribal / Nagavali-Vansadhara,Hard Rock (Granite / Khondalite),7073,72,9,0,0,0,0,0,0,0,72,81,2.0 - 8.0,180
+Sambalpur,Drought-Prone / Mahanadi Basin,Hard Rock (Granite / Quartzite),6657,116,20,4,0,0,0,0,0,0,116,140,3.5 - 11.0,200
+Subarnapur,Drought-Prone / Tel Basin,Hard Rock (Granite Gneiss),2337,73,10,6,0,0,0,0,0,0,73,89,2.5 - 8.0,180
+Sundargarh,Tribal / Drought-Prone / IB,Hard Rock (Gondwana / BIF / Granite),9712,158,29,0,0,0,0,0,0,0,158,187,3.0 - 12.0,200

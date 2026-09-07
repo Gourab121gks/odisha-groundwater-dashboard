@@ -1,0 +1,6 @@
+Hydrogeological_Unit,Age,Area_SqKm,Yield_Range_lps,Transmissivity_m2_day,Storativity,Specific_Yield_pct,Development_Potential
+Unconsolidated Quaternary Alluvium (Coastal),Quaternary,31141,15.0 - 75.0,100 - 4500,1.0e-4 to 1.0e-2,16.0,High (MVS / JJM Multi-village schemes)
+Semi-Consolidated Tertiary Sandstones (Baripada Beds),Tertiary (Miocene),4500,5.5 - 18.6,25 - 743,1.2e-4 to 5.0e-3,10.0,Moderate to High (Artesian in Mayurbhanj)
+Semi-Consolidated Upper Gondwana (Athgarh Sandstone),Mesozoic,11071,3.0 - 15.0,1.5 - 280,2.0e-5 to 8.0e-4,8.0,Moderate (Bhubaneswar-Cuttack urban belt)
+Consolidated Weathered & Fractured Granites / Gneisses,Precambrian,72000,3.0 - 10.0,10 - 150,1.0e-5 to 5.0e-4,3.0,Moderate (Fractured Borewells down to 120m)
+Consolidated Khondalites / Charnockites (Eastern Ghats),Precambrian,36995,1.0 - 3.0,1.0 - 45,5.0e-6 to 1.0e-4,1.5,Low (Dug-cum-Borewells / Check Dams required)

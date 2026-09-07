@@ -1,0 +1,8 @@
+Parameter,Symbol,BIS_Acceptable_Limit,Max_Detected_Value,Affected_Locations_Count,Contamination_Type,Health_Impact,Key_Hotspot_Districts
+Iron (Fe),Fe,1.0 mg/L,65.92 mg/L,94,Aesthetic / Organoleptic (Geogenic),"Turbidity, metallic taste, pipe incrustation","Kendrapara, Puri, Jagatsinghpur, Jajpur, Cuttack"
+Manganese (Mn),Mn,0.1 mg/L (Max 0.3 mg/L),2.41 mg/L,26,Secondary Contaminant (Geogenic),"Neurotoxic risk, black staining","Keonjhar, Sundargarh, Kendrapara"
+Uranium (U),U,30.0 µg/L (AERB),46.8 µg/L,8,Radionuclide (Geogenic Pegmatites),Chemical nephrotoxicity & kidney impairment,"Bargarh (Attabira, Bhedan), Sambalpur"
+Lead (Pb),Pb,10.0 µg/L (0.01 mg/L),18.5 µg/L,4,Toxic Heavy Metal,"Neurological damage, cognitive deficit in children","Jharsuguda (Industrial corridor), Angul"
+Arsenic (As),As,10.0 µg/L (0.01 mg/L),12.2 µg/L,2,Toxic Carcinogen,"Skin lesions, hyperkeratosis, cancer risk",Localized deltaic alluvium pockets (Balasore coastal)
+Zinc (Zn),Zn,5.0 mg/L (Max 15.0 mg/L),16.4 mg/L,1,Trace Metal,Astringent taste,Sundargarh mining belt
+Copper (Cu),Cu,0.05 mg/L (Max 1.5 mg/L),1.82 mg/L,1,Trace Metal,Gastrointestinal distress,Mayurbhanj copper mineralization zone
